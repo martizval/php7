@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`user`, `pass`) VALUES
-('walter.izaga', 'N1tr4mxz+');
+('usuario', 'clave');
 
 -- --------------------------------------------------------
 
@@ -58,8 +58,8 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nombres`, `apellidos`, `correo`) VALUES
-(1, 'Walter MartÃ­n', 'Izaga Valderrama', 'walter.izaga@operadora.pe'),
-(2, 'Fernando Benito', 'Vigo Vergara', 'fernando.vigo@operadora.pe'),
+(1, 'Fulanito', 'Mengano', 'fulanito@mail.com'),
+(2, 'Jhon', 'Smith', 'jhon.smith@mail.com'),
 (3, 'test', 'test', 'test@mail.com');
 
 --
